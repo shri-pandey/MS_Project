@@ -9,12 +9,12 @@ name of the events that users have added to their schedule.
 
 # Instruction
 
-1 . git clone https://github.com/shri-pandey/MS_Project.git
-2 . cd ./Face-Attendence
-3 . connect to mysql using XAMPP
-4 . open phpmyadmin and put your credential in db/connect.js
-5 . create a new table named "faceid"
-6 . click on SQL in phpmyadmin
-7 . copy code from faceid.sql and paste in SQL tab ,present is phpmyadmin
-8 . go to terminal run "npm i"
-9 . then ,"npm run dev"
+1 . git clone https://github.com/shri-pandey/MS_Project.git \
+2 . cd ./Face-Attendence \
+3 . connect to mysql using XAMPP \
+4 . open phpmyadmin and put your credential in db/connect.js \
+5 . create a new table named "faceid" \
+6 . click on SQL in phpmyadmin \
+7 . copy code from faceid.sql and paste in SQL tab ,present is phpmyadmin \
+8 . go to terminal run "npm i" \
+9 . then ,"npm run dev" \
